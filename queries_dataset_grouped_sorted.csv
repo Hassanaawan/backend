@@ -1,0 +1,863 @@
+Query,Grouped_Intent,answer
+can i study subjects from another department during summer?,academics,"Yes, cross-departmental enrollment is often allowed with permission."
+can i get a refund for dropped course?,academics,"Yes, full refund if dropped within Add/Drop week."
+can i submit an assignment late?,academics,Late submissions accepted with grade penalty unless excused.
+are there any evening language courses?,academics,"Yes, options include Arabic, German, and French."
+can i take more than 18 credit hours?,academics,Request for overload must be approved by Academic Council.
+do we have online summer courses?,academics,"Yes, selected courses are offered during summer semester."
+are there lockers in academic blocks?,academics,Limited lockers available upon request from admin.
+what’s the last date to drop a course?,academics,End of 4th week from semester start.
+where do i drop course change forms?,academics,Drop box at Academic Office or email scanned copy.
+what happens if i fail a course?,academics,You must retake the course in the next available semester.
+where can i get my enrollment verification letter?,academics,Request it from the registrar's office or through the portal.
+how do i contact my academic advisor?,academics,"Advisor contact details are listed in your student portal under ""My Advisors""."
+"how do i register for summer semester courses?,",academics,"You can register for summer semester courses through the LMS portal during the registration window.,"
+"what is the deadline to withdraw from a course?,",academics,"The deadline to withdraw from a course is usually in the 8th week of the semester.,"
+"can i take courses from other departments?,",academics,"Yes, with advisor and department approval, cross-departmental course registration is allowed.,"
+can i complete extra credit hours during the summer?,academics,"Yes, you can take additional credit hours within the summer limit set by your university."
+what is the credit hour limit for the summer semester?,academics,Most universities allow a maximum of 6–9 credit hours in summer.
+how many credit hours can i take in one semester?,academics,Undergraduate students can register up to 18 credit hours.
+how do i get approval from my advisor for summer course registration?,academics,You can contact your advisor via email or portal and request approval for selected courses.
+are there special instructions for submitting assignments in online summer classes?,academics,"Yes, instructions will be shared via LMS or by email before the due date."
+where can i find course outlines?,academics,Available on LMS and department websites.
+do i need advisor approval for internship credits?,academics,"Yes, most departments require your advisor’s approval for internships to count as academic credit."
+can i access course evaluations from last semester?,academics,"Yes, evaluations are available under the “Academics” tab in the portal."
+where can i get a copy of the academic handbook?,academics,Download it from the student portal or collect from Registrar Office.
+can i submit handwritten assignments?,academics,"No, typed assignments are mandatory unless stated otherwise."
+are co-curricular activities marked?,academics,Some programs offer 1–2 credits for verified activity participation.
+can i get an exemption from specific courses?,academics,Apply with supporting documents and academic transcripts for exemption.
+can i access course videos after the semester ends?,academics,"Yes, some faculty keep recordings available for 1 extra month."
+can i check course outlines online?,academics,"Yes, they're uploaded on LMS under each course title."
+what is the deadline to add/drop subjects?,academics,Usually during the first 2 weeks of the semester.
+can i submit assignments via email?,academics,Only if explicitly allowed by the instructor.
+how do i sign up for extra credit projects?,academics,Ask your instructor or check LMS announcements.
+what is the credit transfer policy from other universities?,academics,Up to 30% of credits may transfer if courses match our syllabus and grades were B or above.
+are there penalties for dropping core courses?,academics,Dropping core courses requires Dean approval and may delay graduation by one semester.
+can i audit courses without registration?,academics,Auditing requires instructor permission and 50% tuition fee payment.
+can i get a refund for canceled courses?,academics,100% refund if canceled before add/drop period ends.
+can i take a motorcycle safety course for credit?,academics,"Some universities may offer a motorcycle safety course for credit. Check with the registrar's office or the course catalog.,"
+can i take a firearms safety course through the university?,academics,"No, firearms safety courses are not typically offered through the university. Check with local organizations for options.,"
+can i take a wilderness survival course for credit?,academics,"Yes, a wilderness survival course may be available for credit through the outdoor education department. Check with them.,"
+can i take a chainsaw safety course through forestry?,academics,"Yes, you can take a chainsaw safety course through the forestry department for credit. Check with them for details."
+can i retake a course to improve grade?,academics,"Yes, after written permission from your department head."
+can i take extra credit courses in summer?,academics,"Yes, offered during summer semester registration."
+where do i submit documents for credit transfer?,academics,Submit transcripts and course outlines to the Credit Transfer Cell.
+can i submit digital assignments via email?,academics,"Most instructors require submission via LMS, not email."
+are there any short courses offered during summer break?,academics,"Yes, many departments and external partners offer short-term skill-based courses."
+how do i request a change of advisor?,academics,Submit a formal request to the department head for advisor reassignment.
+what happens if i fail a summer course?,academics,It will appear on your transcript. You may need to retake it in the next available semester.
+how do i know which courses are offered this summer?,academics,The list is posted on the university website or student portal each semester.
+how do i apply for course withdrawal?,academics,Fill the course withdrawal form and get approval from your advisor.
+how do i submit an assignment through lms?,academics,Upload your file in the assignment section before the due date.
+can alumni join summer programs or courses?,academics,"Yes, in some cases alumni can join short courses or certifications during summer."
+what are the admission requirements for the bs psychology program?,admission_info,You need a minimum of 60% in intermediate with any background. Preference is given to students with psychology or biology.
+what are the admission requirements for the bs food science & technology program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs environmental sciences program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs urban forestry program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs geology program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs llb program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs education program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs islamic & religious studies program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs english (language & literature) program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+are provisional admission letters issued?,admission_info,Provisional admission is granted only to pending final-year students awaiting results.
+what are the admission requirements for the bs banking and finance program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what is the application fee for international students?,admission_info,"The application fee for international students is $50 USD, payable through the online portal."
+what are the admission requirements for the bs business analytics program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs tourism and hospitality management program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs pakistan studies program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what do i do if i lose my exam admit card?,admission_info,Reprint it from LMS or contact the exam branch.
+what are the admission requirements for the bs political science program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs history program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs international relations program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+how do i reprint my admit card?,admission_info,Login to portal → Exam Section → Download admit card again.
+what are the admission requirements for the bs economics program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+is there an admission quota for disabled students?,admission_info,"Yes, 2% of seats are reserved for students with disabilities across all programs."
+what are the admission requirements for the bs chemistry program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs agriculture program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs climate change program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs botany program?,admission_info,You need a minimum of 60% in intermediate with FSc Pre-Medical background.
+what are the admission requirements for the bs biochemistry program?,admission_info,You need a minimum of 60% in intermediate with FSc Pre-Medical background.
+what are the admission requirements for the bs zoology program?,admission_info,You need a minimum of 60% in intermediate with FSc Pre-Medical background.
+what are the admission requirements for the bs microbiology program?,admission_info,You need a minimum of 60% in intermediate with FSc Pre-Medical background.
+what are the admission requirements for the bs doctor of physical therapy program?,admission_info,You need at least 60% marks in FSc Pre-Medical.
+what are the admission requirements for the bs anesthesia technology program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs radiology technology program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+"what are the office hours of the admissions department?,",admission_info,"The admissions department is open from 9 AM to 4 PM, Monday to Friday.,"
+what are the admission requirements for the bs dental technology program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs aesthetic and cosmetology program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what is the deadline to register for summer courses?,admission_info,Summer course registration ends June 15th.
+what are the admission requirements for the bs optometry program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs human nutrition and dietetics program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs computer science program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs software engineering program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs artificial intelligence program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs data science program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs cyber security program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+where can i collect my admit card for midterms?,admission_info,Collect it from the examination branch or download from the portal.
+what are the admission requirements for the bs physics program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs mathematics program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs statistics program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs public health program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs computer science program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+what are the admission requirements for the bs sport science & physical education program?,admission_info,You need a minimum of 60% in intermediate with Math or ICS background.
+when do admissions open for the spring semester?,admission_info,Admissions for Spring semester typically begin in December.
+how can i apply for admission online?,admission_info,Visit the university's admission portal and fill the application form online.
+is there any entry test for undergraduate programs?,admission_info,"Yes, most undergraduate programs require an entry test."
+what is the deadline to submit admission forms?,admission_info,The deadline is usually within 4 weeks of the admission opening date.
+what are the documents required at the time of admission?,admission_info,"You need CNIC, previous transcripts, passport-sized photos, and character certificate."
+how can i confirm my admission after selection?,admission_info,Visit the admission office and submit the required documents with the fee challan.
+what is the minimum gpa required for admission in ms programs?,admission_info,A minimum CGPA of 2.5 in undergraduate is required for MS program eligibility.
+can i attend university events as an alumni?,alumni_services,"Yes, alumni are welcome to attend with prior registration."
+how do i get an alumni id?,alumni_services,Request it via the Alumni Relations Portal.
+how do i access the alumni job portal?,alumni_services,Register with your graduation year and student ID at careers.alumni.edu.
+do alumni get access to job portals?,alumni_services,"Yes, access granted after registration with alumni office."
+what id is needed for convocation entry?,event_info,Student ID card or NIC is mandatory for entry.
+how do i register for convocation?,event_info,Apply online through the student portal once notified.
+can i invite my parents to the convocation ceremony?,event_info,"Yes, each graduate can invite up to 2 guests."
+is there a dress code for convocation?,event_info,"Yes, formal attire with gown and cap is mandatory."
+can i bring guests to university events?,event_info,Guests are allowed with valid event passes only.
+how do i volunteer for convocation?,event_info,Submit application via Student Services at least 1 month prior.
+is there any orientation for transfer students?,event_info,"Yes, usually held in first week after semester begins."
+do i need to attend orientation?,event_info,Mandatory for all new undergraduate students.
+are there group discounts for seminars?,event_info,"Yes, 10% off for groups of 5 or more students."
+can parents attend orientation day?,event_info,"Yes, parents are welcome to attend the first-day orientation."
+can parents attend orientation?,event_info,"Yes, a parallel session is held for parents."
+where can i find the calendar of events?,event_info,Posted on the LMS dashboard and official website.
+where can i find event photos?,event_info,Uploaded on university portal and official Facebook page.
+"when does the convocation ceremony usually take place?,",event_info,"Convocation typically takes place in December. Dates are announced on the university website.,"
+how do i pay for supplementary exams?,exam_info,Pay via finance portal or university bank account with slip.
+do online exams require camera and mic access?,exam_info,"Yes, you may be required to have both for proctoring purposes."
+are there makeup exams for summer semester courses?,exam_info,"Yes, makeup exams may be scheduled in case of valid absence or emergency."
+are online exams open-book during summer courses?,exam_info,It depends on the course policy; some may be open-book while others are not.
+are there tutorials before exams?,exam_info,"Yes, most departments offer prep tutorials a week before."
+is proctoring required for online summer exams?,exam_info,"Yes, most online exams are monitored via camera and screen recording tools."
+can i request extra time for summer online exams due to disability?,exam_info,"Yes, with documentation, you can request accommodations through the disability office."
+can i use my own laptop during exams?,exam_info,Only if explicitly allowed by instructor and proctor.
+is there a mock exam before the actual summer online exam?,exam_info,Some departments offer mock exams for practice; check with your course instructor.
+what should i do if i face technical issues during an online exam?,exam_info,Immediately contact your course instructor and IT support with proof of the issue.
+what if i have two exams at the same time?,exam_info,Request a clash resolution through the examination branch.
+can i use the same exam portal for summer as the regular semester?,exam_info,"Yes, the same platform is generally used for both regular and summer exams."
+what is the duration of online exams during summer courses?,exam_info,"Exam lengths vary by course, but typically range from 1 to 3 hours."
+can i view final exam scripts?,exam_info,"Yes, submit a script viewing request within 7 days of result."
+are calculators allowed in online exams?,exam_info,Depends on course; see exam instructions.
+what is the rechecking policy for exams?,exam_info,Submit a rechecking request within 7 days of result announcement.
+"what are the rules for carrying electronics into exams?,",exam_info,"Electronics such as phones and smartwatches are strictly prohibited inside the examination hall.,"
+are there free language proficiency tests?,exam_info,"Yes, free language proficiency tests are offered through the language department. Check with them for availability.,"
+what is the process for degree attestation?,exam_info,Submit the original degree and a copy to the registrar's office.
+what's the policy on protest marches?,exam_info,Approved demonstrations allowed in designated free speech zones.
+are there prayer breaks during exams?,exam_info,15-minute breaks are allowed for religious observances with prior notice.
+can i change exam center after registration?,exam_info,Only with valid reason and department head approval.
+how are summer semester exams conducted online?,exam_info,Through the university’s LMS or exam portal with proctoring tools enabled.
+how do i register for on-campus photography contests?,exam_info,Details are posted on the notice board and student portal.
+what happens if i'm late to a final exam?,exam_info,Latecomers may enter within the first 30 minutes but get no extra time.
+how do i request exam accommodations for dyslexia?,exam_info,Submit medical documentation to Student Disability Services 3 weeks before exams.
+what is the fee for reappearing in exams?,exam_info,"PKR 1,000 per course for retakes."
+what id is valid for exam entry?,exam_info,"University ID card, national ID, or passport are accepted for exam entry."
+how are lab exams weighted in final grades?,exam_info,Lab exams count for 40% of your practical course grade and 20% of overall course marks.
+are there free std testing clinics?,exam_info,Monthly clinics at Health Center; appointments required.
+can i see my old answer sheets?,exam_info,Request it from the examination branch within 7 days of result.
+what to do if i miss an exam due to illness?,exam_info,Submit medical certificate to the exam branch within 3 days.
+where is the examination branch located?,exam_info,"In Block B, near the admission office."
+is there a separate timetable for summer exams?,exam_info,"Yes, the summer exam schedule is announced separately by the examination office."
+can i appeal against exam results?,exam_info,"Yes, submit a written appeal with fee within 10 days of result."
+can i use a calculator during final exams?,exam_info,"Yes, unless otherwise restricted by the course instructor."
+can i appear in exams with pending documents?,exam_info,You must clear document submission before appearing in final exams.
+can day scholars avail hostel temporarily during exams?,exam_info,"Yes, temporary accommodation can be requested with special approval."
+where can i find exam seating plans?,exam_info,Seating plans are displayed on department notice boards and LMS.
+how do i apply for a makeup exam?,exam_info,Submit a makeup exam request with supporting documents within 3 days.
+what happens if i fail the entry test?,exam_info,You cannot be admitted; you must re-apply in the next intake.
+"when is the fee submission deadline for the fall semester?,",fee_info,"Fall semester fees must be submitted by the 15th of August.,"
+is there a coffee loyalty program?,fee_info,10th coffee free with punch card
+how do i get a fee challan?,fee_info,Available under “Finance” in Student Portal.
+can i get advance fee receipt for visa?,fee_info,"Yes, request it from Finance Office with passport copy."
+can i use the campus gym for free?,fee_info,Gym usage is free for registered students with ID.
+can i pay my fee in installments?,fee_info,"Yes, fee installments are available upon approval from the finance office."
+how do i give cafeteria feedback?,fee_info,Comment cards or online form
+what payment methods are accepted?,fee_info,"Student ID, credit/debit cards, mobile wallets"
+can i pay with mobile wallets?,fee_info,Apple/Google Pay accepted
+can i pay my fees through credit card?,fee_info,"Yes, both debit and credit cards are accepted at finance counters."
+what is the semester fee for bba program?,fee_info,"The BBA program costs around PKR 90,000 per semester."
+where to pay convocation fee?,fee_info,Pay online or at Finance Office using your ID number.
+can i attend classes if my fee is unpaid?,fee_info,Students with unpaid dues may be restricted from attending classes or exams.
+what is the hostel fee per semester?,fee_info,"Hostel fee is PKR 45,000 per semester including accommodation and utilities."
+can i use my student id to pay?,fee_info,"Yes, cashless payments via student ID"
+are there special fees for online summer programs?,fee_info,"Yes, online summer programs may have different fee structures than regular ones."
+how can i apply for a fee refund?,fee_info,Submit a written application to accounts office with valid reason and challan copy.
+how do i pay my tuition fee online?,fee_info,Login to your student portal and go to the fee section to pay online.
+where can i pay hostel mess dues?,fee_info,Mess dues are paid at the hostel accounts window or online.
+is the security fee refundable after graduation?,fee_info,"Yes, it is refundable after clearance from all university departments."
+is there a late fee penalty?,fee_info,"Yes, a penalty of PKR 1,000 is charged after the due date."
+how much does it cost to enroll in summer courses?,fee_info,Summer courses often have separate per-credit-hour charges. Fees vary by course.
+what is the average class duration?,general_info,Typically 90 minutes including 10-minute break.
+can faculty members work as student mentors?,general_info,"Yes, assigned mentors support academic & personal guidance."
+can i borrow lab equipment?,general_info,"Yes, with lab supervisor permission and valid ID."
+do you sell whiteboard markers?,general_info,4-color sets for $5
+is there a copy machine?,general_info,Self-service copiers at $0.15/page
+can i take night classes?,general_info,Available for selected elective and language courses.
+where do i submit my fyp progress report?,general_info,Submit via FYP Portal under Reports section.
+can i pause my studies for a year?,general_info,"Yes, submit a semester freeze request to Registrar."
+where is the stationery shop on campus?,general_info,"Next to cafeteria, inside Student Union Block."
+what to do if assigned teacher is changed?,general_info,Changes are auto-updated on LMS and notice board.
+can i see my degree progress online?,general_info,Check via Student Portal under “Academics” → “Degree Audit”.
+are there internship opportunities at university itself?,general_info,"Yes, limited roles in IT, library, and marketing departments."
+where do i report bullying cases?,general_info,Student Conduct Office or safe@university.edu.pk.
+is final year project mandatory for all programs?,general_info,"Yes, required for engineering, CS, and business degrees."
+what is the process for transcript request?,general_info,Fill the form on student portal and collect it from the registrar's office.
+do students get access to turnitin?,general_info,"Yes, available through LMS with instructor-provided credentials."
+are there photocopy services near classrooms?,general_info,Block B basement and Student Union corridor.
+how can i join the newsletter team?,general_info,Apply via Student Clubs Form during registration week.
+what is the eligibility for dean’s list?,general_info,GPA of 3.7+ and no disciplinary actions.
+can i take online classes while on leave?,general_info,Only with prior approval from Dean’s Office.
+where is the debate competition held?,general_info,Usually held in Seminar Hall or Auditorium.
+are photocopies of transcripts accepted for jobs?,general_info,"Usually yes, but verify with employer – attested preferred."
+how do i get access to matlab or spss?,general_info,Available through university license on LMS under “Software” tab.
+can i get academic leave for competitions?,general_info,"Yes, submit event letter to Academics with Head approval."
+can i attend faculty meetings as a rep?,general_info,"Yes, class reps attend monthly department meetings."
+are there therapy sessions available?,general_info,"Yes, book via Counseling Center or email wellness@university.edu.pk."
+can i donate blood on campus?,general_info,"Yes, camps are arranged every semester at Medical Block."
+is there a maximum number of club memberships?,general_info,You can join up to 3 clubs per semester.
+how to register for midterms?,general_info,Auto-registered once attendance criteria is met.
+do i need approval for class project funding?,general_info,Get advisor and department head approval before purchase.
+where do i submit internship forms?,general_info,Submit at the Career Services Office or upload via portal.
+do you sell presentation folders?,general_info,10 colors available ($2–5)
+are there student discounts?,general_info,10% off with valid ID
+what’s the minimum cgpa to avoid warning?,general_info,Below 2.0 triggers academic warning and monitoring.
+is there a student complaint suggestion box?,general_info,"Yes, available outside Student Affairs Office."
+how do i join the robotics club?,general_info,Apply online during society recruitment week or visit Block F.
+what’s the cafeteria closing time during ramadan?,general_info,Closes 15 minutes before iftar time.
+are there fitness classes for students?,general_info,"Yes, free Zumba, yoga, and HIIT sessions every week."
+is there career counseling available?,general_info,"Yes, appointments can be booked via the Career Portal."
+how do i submit a project extension request?,general_info,Apply through advisor with justification and supporting documents.
+what if my id card is damaged?,general_info,Submit damaged ID to Student Affairs for replacement.
+are academic transcripts mailed home?,general_info,Only if requested; otherwise collected in person.
+where is the lost and found for mobile phones?,general_info,Report to security office with item description.
+can i meet my instructor outside office hours?,general_info,"Yes, but schedule appointment via email or LMS."
+what’s the policy for submitting fyp late?,general_info,Late submissions are penalized 5% per day unless approved.
+can i shift from morning to evening shift?,general_info,Allowed with advisor approval and seat availability.
+are lockers sanitized regularly?,general_info,Sanitized weekly by housekeeping staff.
+how to request time off for competitions?,general_info,Submit letter from club head to Student Services.
+how to request an official university letter?,general_info,Request through Portal → Services → Official Letters.
+are face masks mandatory on campus?,general_info,No longer mandatory but encouraged in indoor areas.
+are electric scooters allowed on campus?,general_info,Allowed with speed limit of 10 km/h and helmet.
+where can i find university policies?,general_info,All policies listed in Student Handbook and LMS.
+can i wear jeans in class?,general_info,"Smart casuals allowed; no shorts, slogans, or offensive graphics."
+are evening classes available for bs programs?,general_info,"Yes, but only for limited programs like BS IT and BS English."
+are there typewriters for rent?,general_info,2 available at Library ($5/hour)
+do you sell lab notebooks?,general_info,Bound research notebooks ($8–15)
+is there a fax service?,general_info,"Yes, $1/page for domestic faxes"
+how do i submit a leave application?,general_info,"Use the student portal to apply for leave under ""Applications""."
+where can i collect my graduation robe?,general_info,"Collect it from the Registrar Office, 2nd floor, Block A."
+are there any tuition discounts for siblings?,general_info,"Yes, a 15% tuition discount is available for enrolled siblings."
+where is the lost and found located?,general_info,"Located at Security Office, Gate 1."
+is there any provision for night study halls?,general_info,"Yes, library ground floor remains open till midnight during finals."
+where do i find university bus timings?,general_info,Available at transport office or on the university app.
+can i audit a class without enrolling?,general_info,"Yes, auditing is allowed with instructor and department permission."
+how can i report a lost university id card?,general_info,Report at Student Affairs and apply for a duplicate ID.
+how can i request medical accommodation for classes?,general_info,Submit documents to the medical office and student affairs jointly.
+what is the university's plagiarism policy?,general_info,Zero tolerance — plagiarism may result in course failure or suspension.
+what should i do if i missed my course registration slot?,general_info,Contact academic advisor or department for manual slot.
+where can i get university-branded notebooks?,general_info,"Available at the Stationery Shop, Block C."
+how are cgpa calculations handled?,general_info,Weighted average of all GPA courses attempted during your degree.
+do faculty members have consultation hours?,general_info,"Yes, faculty hours are posted outside their offices and online."
+can i visit the lab outside class hours?,general_info,"Yes, but only with lab assistant or supervisor approval."
+are food courts open on weekends?,general_info,"Yes, open from 10 AM to 4 PM on Saturdays."
+what are the rules for group study rooms?,general_info,"Limit of 6 students per room, booking required via library portal."
+where can i find notices about upcoming guest lectures?,general_info,All academic guest lectures are listed on the LMS and department boards.
+can i request soft copies of reference books?,general_info,"Yes, email the library or request through the online catalog."
+what is the process for getting transcripts sealed?,general_info,Request at registrar with payment receipt; processing takes 2 days.
+are yoga sessions conducted on campus?,general_info,"Yes, every Friday at 4 PM in the Wellness Room, Block F."
+how do i join the drama society?,general_info,Fill out the form at Club Fair or contact the society president.
+is there a lost and found desk?,general_info,Located at the security office near main gate.
+is there a university daycare for staff and students?,general_info,"Yes, located behind the Faculty Club, open 8 AM to 6 PM."
+can i get an attendance certificate?,general_info,"Yes, request it via the student portal or registrar’s office."
+how can i become a teaching assistant?,general_info,Minimum CGPA of 3.5 and application through department portal.
+do you sell university merch?,general_info,"Hoodies, mugs, stickers at Stationery Shop"
+can i print on specialty paper?,general_info,Resume/Cardstock paper (+$0.75/page)
+are there fire drills conducted in hostels?,general_info,"Yes, held once every semester by the Safety Department."
+what is the official university email format?,general_info,Firstname.lastname@university.edu.pk
+can i store luggage during semester break?,general_info,"Yes, hostel lockers available upon request to warden."
+how do i appeal a grading decision?,general_info,File academic appeal within 7 days of result announcement.
+are lockers available for rent on campus?,general_info,"Yes, lockers are available in academic blocks through Student Services."
+where is the emergency first aid center?,general_info,"Block C, near canteen – open 24/7."
+do you sell lab coats?,general_info,Available in sizes S–XXL ($25–35)
+how do i request extra classes?,general_info,Request through class rep or email course instructor.
+can i get duplicate degree if i lost mine?,general_info,"Yes, apply with FIR and affidavit to the registrar."
+do i need approval for research outside university?,general_info,"Yes, apply through Research Office for external fieldwork."
+where do i submit my thesis for review?,general_info,"Submit soft copy via LMS, hard copy to your advisor."
+what is the process to change section?,general_info,Request must be submitted during Add/Drop week only.
+do you provide placement assistance?,general_info,"Yes, through job fairs, CV reviews, and mock interviews."
+where is the career placement office?,general_info,"Located on 3rd floor, Block B, near academic offices."
+are there art supplies?,general_info,"Basic paints, brushes, canvases available"
+is there any attendance app?,general_info,"Yes, integrated with LMS mobile version."
+what is the class strength for general electives?,general_info,Generally 25–35 students depending on course.
+can i get old university id reactivated?,general_info,"Yes, after approval from Student Affairs and clearance."
+is there a whatsapp group for each department?,general_info,Official student forums are maintained on LMS and email.
+do you sell sticky notes?,general_info,10 colors/sizes ($1–4 per pack)
+is there a binding machine?,general_info,Spiral/comb binding ($3–8 per item)
+do i need to wear a lab coat for computing labs?,general_info,"No, lab coats are required only in science labs."
+do you sell geometry sets?,general_info,Complete sets for $7
+do you sell planners?,general_info,Academic year planners ($10–25)
+what file formats are supported?,general_info,"PDF, DOCX, PPTX, JPG, PNG"
+do you sell graduation supplies?,general_info,"Caps/gowns, announcements, frames (Feb–May)"
+how do i subscribe to university newsletters?,general_info,Sign up via the university website under the News section.
+is there a help desk for international students?,general_info,"Yes, located in Block E, International Office reception."
+can i attend workshops from other departments?,general_info,"Yes, subject to available seats and instructor permission."
+what documents are needed for a character certificate?,general_info,"Copy of CNIC, enrollment certificate, and clearance from hostel/library."
+are laminating services available?,general_info,"Yes, $1.50 per sheet (A4–A3)"
+how do i check my cgpa?,general_info,Login to portal → Academics → View CGPA.
+where can i update my emergency contact?,general_info,Update via the “My Profile” section on the student portal.
+what is the cgpa requirement to graduate with honors?,general_info,A CGPA of 3.5 or higher is required to graduate with honors.
+can we request campus security escort?,general_info,"Yes, call emergency helpline from 7 PM–10 PM."
+what are working hours of admin block?,general_info,9:00 AM to 5:00 PM Monday to Friday.
+can i book a tutor through the university during the summer break?,general_info,"Yes, academic tutoring services are often available year-round."
+how do i apply for a summer exchange program?,general_info,You can apply through the International Office; forms and requirements are available on the student portal.
+can i take online summer courses from another university?,general_info,"Yes, with prior approval from your department and academic advisor."
+will summer semester affect my graduation timeline?,general_info,"Yes, it can help you graduate earlier or catch up on missed credits."
+how long is each semester at the university?,general_info,Each semester is typically 16 weeks long.
+is the university cafeteria open during summer?,general_info,"Yes, but operating hours may be reduced. Check notices for updated timings."
+are there any summer bootcamps for coding or ai?,general_info,"Yes, summer bootcamps are offered for topics like data science, coding, and AI."
+are career counseling services available in summer?,general_info,"Yes, the Career Services Office operates year-round. Appointments can be booked online."
+what happens if i miss a summer class?,general_info,Inform your instructor immediately. Regular absence can affect your grade.
+is attendance tracked for online summer classes?,general_info,"Yes, LMS platforms track login time and participation in activities."
+can i do research with a faculty member in summer?,general_info,"Yes, you can reach out to faculty members for summer research assistant roles."
+is participation in student societies mandatory?,general_info,It is encouraged but not mandatory.
+how do i get my transcript updated with summer results?,general_info,Transcripts are updated after the summer result declaration by the registrar's office.
+are graduation projects allowed during the summer?,general_info,"Yes, students may work on or register their final year projects in summer."
+how do i access summer course materials online?,general_info,Materials are uploaded to the LMS or shared by instructors via email or Google Classroom.
+is the it lab open for student use during summer?,general_info,"Yes, the IT labs remain open with limited hours."
+can i take skill-based certification courses through the university in summer?,general_info,"Yes, many departments offer short certification courses in tech, languages, and business."
+what is the university's dress code policy?,general_info,Students are expected to dress modestly and follow decorum.
+are summer internships mandatory for graduation?,general_info,This depends on your program. Some degrees require it; others don’t.
+how can i apply for university-sponsored summer internships?,general_info,Apply through your department or career office. Opportunities are posted on student portals.
+is there a deadline to submit internship applications for summer?,general_info,"Yes, each internship opportunity has its own application deadline. Check the listings."
+can i do a virtual internship during summer and get university credit?,general_info,"Yes, virtual internships are accepted if they meet credit requirements and are approved."
+does the university provide a list of companies for internships?,general_info,"Yes, partner companies and internship opportunities are listed on the career portal."
+how do i get my summer internship approved by the department?,general_info,Submit the internship proposal form to your department or advisor for review.
+are academic workshops held in the summer?,general_info,"Yes, workshops on writing, research, and study skills are often held in summer."
+are there paid internships available through the university?,general_info,"Yes, some internships offer stipends or are part of funded programs."
+is there any financial aid for unpaid internships?,general_info,Some universities offer stipends or grants for students taking unpaid internships.
+are international internships supported by the university during summer?,general_info,"Yes, with advisor and department approval, international internships can be supported."
+what is the minimum duration of a summer internship?,general_info,"Usually 4–6 weeks, depending on the course or company requirements."
+can i do two internships during one summer?,general_info,"Yes, if both are approved and do not overlap or exceed workload guidelines."
+where do i submit my internship evaluation form?,general_info,Submit it to your department’s internship coordinator or upload it via the portal.
+will my summer internship show up on my transcript?,general_info,"If registered as a credited course, it will appear on your transcript."
+will my summer internship be graded or pass/fail?,general_info,Most internships are graded on a pass/fail basis unless otherwise specified.
+will i get a certificate for completing a summer internship?,general_info,"Yes, a completion certificate is issued by the company or department."
+can i withdraw from summer semester after registration?,general_info,"Yes, but you must follow the university’s withdrawal policy and deadlines."
+is there a different dress code in summer semester?,general_info,"No, the same dress code applies year-round."
+how are attendance shortages handled in summer semester?,general_info,Consistent shortage may lead to grade penalties or course failure.
+are labs functional for fyp work during summer?,general_info,"Yes, FYP labs may be accessible with supervisor permission."
+do we receive email notifications for summer deadlines?,general_info,"Yes, important deadlines and notices are sent via university email."
+what is the gpa requirement to avoid probation?,general_info,A CGPA of 2.0 is required to stay off probation.
+who do i contact for lms technical issues?,general_info,Email lms.support@university.edu.pk or visit IT support in Block D.
+where can i find my class timetable?,general_info,Class timetables are available on LMS and department notice boards.
+are mental health counseling services available in summer?,general_info,"Yes, the counseling center is open during summer with prior appointments."
+where can i see my attendance record?,general_info,You can view your attendance under the academics tab in your portal.
+how can i access the student portal?,general_info,Go to portal.university.edu.pk and enter your credentials.
+where is the student affairs office located?,general_info,"It is located in Block C, next to the IT helpdesk."
+where is the finance department located?,general_info,The finance department is on the ground floor of the admin block.
+are there any additional charges apart from the tuition fee?,general_info,"Yes, charges like registration fee, security deposit, and library fund are included."
+where can i find the merit list for selected students?,general_info,Merit lists are available on the university website and displayed on notice boards.
+can i apply for multiple programs at once?,general_info,"Yes, you may apply for up to three programs by filling separate forms."
+i forgot my student portal password. how do i recover it?,general_info,Use the 'Forgot Password' option on the login screen to reset it.
+can summer internships be converted into job offers?,general_info,"Yes, based on performance, some internships lead to full-time job opportunities."
+do i need to renew my lms access for summer classes?,general_info,"No, if you are registered, your LMS access continues automatically."
+are group projects allowed in online summer courses?,general_info,"Yes, group work is encouraged and often managed via online collaboration tools."
+are guest lectures arranged in summer?,general_info,"Yes, some departments host guest speakers or seminars during summer."
+can i borrow books from the library in summer?,general_info,"Yes, you can borrow books with a valid student ID as usual."
+are student societies active in summer semester?,general_info,Some societies remain active during summer and may host events or workshops.
+how can i access exam results for summer semester?,general_info,Results are published on the student portal or LMS under the result section.
+what if i get a low grade in a summer course?,general_info,It will still count toward your CGPA. You may be able to improve it in the next semester.
+what kind of support is available for summer project work?,general_info,You can get support from faculty mentors or the department project coordinator.
+are there industrial visits organized in summer?,general_info,Some departments organize visits for students enrolled in summer projects or internships.
+how to update my summer course registration?,general_info,You can update it through the student portal before the deadline or by contacting the registrar.
+are there any writing workshops during the summer semester?,general_info,"Yes, academic writing and research paper workshops are often held in summer."
+can international students take part in summer internships?,general_info,"Yes, they can, depending on visa permissions and internship availability."
+do i need a student id for summer semester?,general_info,"Yes, the student ID is valid throughout summer and needed for campus services."
+can i use university wi-fi during the summer semester?,general_info,"Yes, your university Wi-Fi credentials work year-round."
+is there academic probation for poor summer performance?,general_info,"Yes, poor performance in summer may contribute to academic probation."
+will faculty be available for office hours during summer?,general_info,"Yes, but timings may vary; confirm with your individual instructors."
+can i complete incomplete grades in summer semester?,general_info,"Yes, summer is a good time to complete any pending coursework or grades."
+does the university help in arranging summer internships?,general_info,"Yes, many universities have career centers that help connect students with internships."
+how do i file a complaint against faculty or staff?,general_info,Visit the dean's office or use the online complaint form.
+is attendance mandatory for summer courses?,general_info,"Yes, attendance policies apply even during the summer semester."
+how can i get a duplicate student id card?,general_info,Visit the student affairs office and submit a duplicate ID request form.
+what is the policy on mobile phone usage in class?,general_info,Phones must be silenced and not used unless permitted by the instructor.
+can i record lectures with permission?,general_info,"Yes, but always ask instructor before recording."
+what’s the makeup class attendance policy?,general_info,Attendance is compulsory in makeup classes.
+can i use open wifi on campus?,general_info,University WiFi is password-protected; guest logins available.
+where to get project approval stamp?,general_info,Get from your department’s coordinator office.
+are there back-to-school deals?,general_info,20% off bundles in August/September
+is there a meal plan for athletes?,general_info,"Yes, subsidized meal plans available through sports department."
+is breakfast available in all cafeterias?,general_info,"Yes, served 7:30–10:30 AM in all cafeterias."
+what’s the validity of student id?,general_info,Valid for duration of program + 6 months grace.
+where are departmental notice boards located?,general_info,Outside each department office or LMS announcements.
+can i submit handwritten reports?,general_info,Typed reports are required unless hand-written approved.
+can i file complaint about unfair grading?,general_info,File complaint with course coordinator first.
+where to apply for research conference grant?,general_info,Apply through Research Office 30 days before event.
+are there braille books in library?,general_info,"Yes, located in Special Resource Section."
+do we have access to scopus database?,general_info,"Yes, available through digital library login."
+where do i report campus damage or graffiti?,general_info,Use mobile app or report to Facilities Office.
+are there medical facilities on campus?,general_info,"Yes, there's a health unit beside the student affairs block."
+can i bring bicycle to university?,general_info,"Yes, bike racks are available at all main gates."
+do we get holidays for religious festivals?,general_info,"Yes, as per government academic calendar."
+can i request a personal locker?,general_info,"Yes, apply through campus services with a refundable deposit."
+where can i submit a correction in attendance?,general_info,Report to course instructor within 3 working days.
+how do i get permission for out-of-campus visit?,general_info,Get approval form signed by advisor and department chair.
+can i work on campus as part-time student?,general_info,"Yes, limited jobs available under student employment scheme."
+can i take 2 majors simultaneously?,general_info,Only allowed with CGPA above 3.5 and department approval.
+is there a designated prayer room?,general_info,On every floor of academic blocks and near cafeterias.
+can i use chatgpt for assignments?,general_info,Allowed only if permitted by course instructor.
+do we have a student innovation fund?,general_info,"Yes, submit proposal to Incubation Center for funding."
+are resumes reviewed at career center?,general_info,CV review service available every Tuesday–Thursday.
+where do i collect graduation gown?,general_info,Collect from Student Affairs a week before convocation.
+how can i join the debate society?,general_info,Sign up during the co-curricular drive or visit the society desk in Block D.
+do we get study break before finals?,general_info,A one-week reading break is given before final exams.
+where can i view campus rules?,general_info,Available in Student Handbook on university website.
+can i book auditorium for student club events?,general_info,"Yes, submit a booking form via the Events Office."
+can i eat in lecture rooms?,general_info,No eating allowed during class hours.
+can i perform research under a faculty?,general_info,"Yes, speak to your department faculty for openings."
+how do i update my contact information?,general_info,"Update your info through the student portal under ""My Profile""."
+how do i register my startup idea?,general_info,Submit pitch deck to Incubation Center online portal.
+is the summer semester mandatory for all students?,general_info,"No, the summer semester is optional and mainly for improvement or fast-tracking studies."
+are summer semester courses shorter in duration?,general_info,"Yes, summer courses are condensed and often last 6 to 8 weeks."
+what is the minimum attendance required to sit in final exams?,general_info,A minimum of 75% attendance is required to appear in final exams.
+how can i access past exam papers?,general_info,Past papers are available in the library archives and LMS under course materials.
+are summer courses offered for all departments?,general_info,"Availability varies, but most core subjects are offered; check with your department."
+can i take elective subjects during the summer semester?,general_info,"Yes, elective courses are usually available in summer."
+how do i register for improvement courses during summer?,general_info,Registration is typically done through the student portal or by contacting your academic advisor.
+are classes in the summer semester held online or on campus?,general_info,"It depends on the university, but many offer hybrid or fully online classes."
+can i drop a course in the summer semester after registration?,general_info,"Yes, but there's usually a deadline to drop a course without penalty."
+are there remedial classes offered in the summer?,general_info,"Yes, some universities offer remedial or foundation classes during summer."
+how are practical/lab subjects handled in summer semester?,general_info,Lab work is condensed or scheduled in blocks; some may use virtual simulations.
+"can i take a subject in summer that i haven’t failed, just to improve my grade?",general_info,"Yes, improvement attempts are allowed even for passed subjects in many cases."
+are there any academic counseling sessions before summer course registration?,general_info,"Yes, most universities provide academic advising before summer registration opens."
+are foreign language classes offered in the summer semester?,general_info,Some universities offer language electives in summer. Check your course catalog.
+will my summer grades affect my cgpa?,general_info,"Yes, summer grades are included in your CGPA calculation."
+can i retake a failed subject in the summer semester?,general_info,"Yes, failed subjects can usually be retaken during the summer semester for grade improvement."
+"how do i file a complaint about a professor?,",general_info,"To file a complaint, visit the Student Affairs Office and fill out a grievance form.,"
+how do i apply for a bonafide certificate?,general_info,Submit a request at student affairs along with your enrollment proof.
+is there a helpline for tech issues?,general_info,"Yes, call 111-123-456 ext. 4 or email helpdesk@university.edu.pk."
+can students enter via staff gate?,general_info,Only in emergencies with security approval.
+where can i get id strap replaced?,general_info,Available at Student Store for PKR 100.
+can i submit digital signatures on forms?,general_info,Accepted for most applications except transcripts.
+can i freeze my semester?,general_info,"Yes, apply with a valid reason before midterm exams begin."
+what is the university policy on plagiarism?,general_info,Plagiarism is strictly prohibited and can lead to course failure or expulsion.
+"where can i get a duplicate student id card?,",general_info,"You can request a duplicate student ID card at the Student Affairs Office.,"
+"what is the grading criteria for final year projects?,",general_info,"Final year projects are graded on innovation, execution, documentation, and presentation.,"
+"where is the it services office located?,",general_info,"The IT Services office is located in Block C, Room 108.,"
+"how can i change my major?,",general_info,"You can change your major by submitting a request through your academic advisor and getting departmental approval.,"
+"are attendance records shared with parents?,",general_info,"No, attendance records are not automatically shared unless authorized by the student.,"
+can i change my major after first semester?,general_info,"Yes, with advisor approval and based on seat availability."
+"is there a helpline for mental health support?,",general_info,"Yes, the university provides a 24/7 mental health support helpline at 1800-UNI-HELP.,"
+"where do i submit my internship evaluation form?,",general_info,"Submit your internship evaluation form to the Career Services Office.,"
+"are part-time jobs available on campus?,",general_info,"Yes, part-time job opportunities are occasionally posted on the student portal.,"
+is there a gpa requirement for society presidents?,general_info,"Yes, must have CGPA 3.0 or above."
+do you sell fountain pens?,general_info,Limited selection starting at $20
+can i check menu online?,general_info,Full menus on university dining website
+what's the policy on emotional support animals?,general_info,Approval required from Disability Services and Housing.
+are there grants for studying endangered languages?,general_info,Apply through Linguistics Department by April 15.
+can i take a fire safety certification course?,general_info,Monthly workshops at Safety Office (counts for credit).
+how do i report a food allergy to dining services?,general_info,Submit medical documentation to Dining Hall manager.
+are there braille textbooks available?,general_info,Request through Disability Services 3 months before term.
+can i access the underwater robotics lab?,general_info,Open to engineering majors or by special permission.
+what's the policy on fidget toys in exams?,general_info,Silent fidget devices allowed with prior approval.
+are there showers for commuter students?,general_info,Available in Gym locker rooms with ID card access.
+can i request an early result transcript?,general_info,"Yes, with an express fee you can receive it in 5 working days."
+can i get a discounted public transit pass?,general_info,50% discount available at Transport Office in September.
+how many electives can i choose in final year?,general_info,Most programs allow 2–3 electives in the final year.
+how do i join the campus search-and-rescue team?,general_info,Mandatory training every August; apply at Safety Office.
+are there whispering devices for hearing-impaired students?,general_info,Check out devices from Disability Services for lectures.
+can i access the patent law clinic?,general_info,Open to STEM majors with faculty recommendation.
+what's the return policy?,general_info,Unused items with receipt within 14 days
+are there grants for documentary filmmaking?,general_info,Apply through Media Arts Department with proposal.
+can i access the architecture model workshop?,general_info,Open studio hours posted weekly outside Room 405.
+are there language conversation partners?,general_info,Sign up at International Center for weekly meetups.
+what's the policy on electric blankets in dorms?,general_info,Allowed if UL-certified and registered with Housing.
+can i get my bicycle repaired on campus?,general_info,Self-service repair stations behind the Student Union.
+how do i access the telescope observatory?,general_info,Open nights every Thursday; sign up through Physics Department.
+can i change my subject section after add/drop?,general_info,Changes are only possible within the first 2 weeks of classes.
+can i bring my gaming console to dorms?,general_info,Allowed if registered with Housing to avoid WiFi conflicts.
+what's the policy on hoverboards?,general_info,Banned indoors; may be used outdoors at under 10mph.
+how do i report a broken vending machine?,general_info,Email vending@uni.edu with machine location and issue details.
+are there usb charging ports in lecture halls?,general_info,Available in all halls renovated after 2020; check campus map.
+can i get certified in cpr through the university?,general_info,Red Cross courses offered monthly at Health Center ($20 fee).
+can i use the blacksmithing forge?,general_info,Available to Art and Engineering students after training.
+are there discounts for local museums?,general_info,Show student ID for 50% off at 12 partner institutions.
+what's the policy on slacklining on campus?,general_info,Allowed only in designated areas with safety mats.
+are there fax machines for student use?,general_info,Free outgoing faxes at Mail Center (limit 10 pages/day).
+can i access the dental clinic?,general_info,Cleanings and emergencies covered for full-time students.
+where is the student counseling office?,general_info,"It's in Block A, next to the medical unit."
+how do i reserve a podcast studio?,general_info,Book through Media Department (max 4 hours/session).
+are there typing tutors available?,general_info,Free software available on all library computers.
+what happens if a class is missed by the teacher?,general_info,A makeup class will be rescheduled in consultation with students.
+can i rent a projector for club events?,general_info,AV Services loans projectors for 48 hours with advisor approval.
+what's the duration of the internship program?,general_info,"Internships usually span 6–8 weeks, depending on department policy."
+how do i report a leaking ceiling in my dorm?,general_info,Use the FixIt app or call ext. 5555 for urgent issues.
+can i access the cadaver lab as a biology student?,general_info,Junior/Senior BIO majors may apply for supervised access.
+are there free bicycle helmets available?,general_info,Safety Office distributes free helmets in September.
+can i access the stock trading simulation lab?,general_info,Open to Business majors weekdays 9am-5pm.
+how do i report a broken emergency blue light?,general_info,Call Campus Security immediately at ext. 911.
+what is the policy on course overload?,general_info,Overload is allowed for high-performing students with advisor approval.
+what's the policy on failed elective courses?,general_info,You must repeat the elective or choose a different one.
+can i take a bartending certification course?,general_info,Available through Hospitality Management program.
+what's the policy on dorm room waterbeds?,general_info,Prohibited due to flood risk and weight limits.
+are there free menstrual products on campus?,general_info,Available in all gender-neutral restrooms.
+can i access the forensic anthropology lab?,general_info,Open to Anthro majors with professor supervision.
+how do i report a suspicious person on campus?,general_info,Call Campus Security or use the SafeCampus app.
+are there grants for lgbtq+ conference travel?,general_info,Diversity Office offers $750 travel stipends.
+can i use the pottery kilns as a non-art major?,general_info,Open studio hours every Friday with monitor present.
+what's the policy on dorm room bunk beds?,general_info,University-provided only; no homemade structures.
+are there free naloxone training sessions?,general_info,Monthly workshops at Health Center; no cost.
+how do i apply for campus change?,general_info,Submit a request form with reasons and get approvals from both campuses.
+can i use the glassblowing studio?,general_info,Art majors only; mandatory safety training first.
+are there grants for interfaith conference travel?,general_info,Apply through Chaplain's Office by November 1.
+how do i access the crime statistics database?,general_info,Available through Campus Security public portal.
+what's the minimum duration of an ms thesis?,general_info,An MS thesis must span at least 2 regular semesters.
+what's the policy on hoverboard charging in dorms?,general_info,Only charge in designated battery-safe zones.
+are there free legal clinics for tenants?,general_info,Law School offers monthly tenant rights workshops.
+can i get certified in scuba diving through pe?,general_info,Summer course available (extra $200 equipment fee).
+are there emergency loaner laptops?,general_info,Check out for 72 hours from IT Services with deposit.
+can i take a wilderness first aid course?,general_info,Offered each semester through Outdoor Recreation.
+are there grants for attending hackathons?,general_info,CS Department reimburses up to $300 with receipts.
+can i access the automotive repair workshop?,general_info,Available to Engineering students and car club members.
+are there coin counters for laundry change?,general_info,Available at all hostel reception desks.
+what's the policy on dorm room aquariums?,general_info,Allowed up to 10 gallons with prior registration.
+how do i report a broken water fountain?,general_info,Submit work order via Facilities website or app.
+are there grants for attending model un?,general_info,Political Science Dept offers $500 travel grants.
+can i do a minor in another department?,general_info,"Yes, after departmental approval and CGPA requirement fulfillment."
+can i access the particle physics simulator?,general_info,Reserve through Physics Department for thesis work.
+what's the policy on dorm room lofts?,general_info,University-built lofts only; no homemade structures.
+are there free resume paper for interviews?,general_info,Career Center provides 10 sheets/student/semester.
+can i take a mixology class as a chemistry elective?,general_info,Approved for Chem majors as special topics course.
+can i get my drone pilot license through the university?,general_info,Aviation Department offers Part 107 test prep.
+can i access the wind tunnel for my project?,general_info,Engineering students may reserve 2-hour slots.
+can i use the woodshop as an arts student?,general_info,Open to all students after completing safety training.
+how do i join the emergency response team?,general_info,Complete CERT training offered each semester through Safety Office.
+are minors printed on final degrees?,general_info,"Yes, if completed as per curriculum guidelines."
+can i request for a reference letter?,general_info,"Yes, from instructors who taught you — submit a request."
+what is the maximum semester break allowed?,general_info,One year (two semesters) is the maximum allowed gap.
+how do i contact the vice chancellor?,general_info,You may write an official email or submit a letter to VC’s office.
+are there any special programs for high achievers?,general_info,"Yes, includes scholarships, internships, and mentoring."
+are there any wi-fi zones on campus?,general_info,"Yes, Wi-Fi is accessible in all academic and hostel blocks."
+is attendance marked for lab sessions?,general_info,"Yes, lab attendance is compulsory and separate from theory class."
+what is lms?,general_info,LMS is the Learning Management System for all academic activity.
+is biometric attendance used?,general_info,"Yes, in selected departments with digital systems."
+what happens if i miss a workshop?,general_info,You may miss the certificate; check with organizers.
+can i apply after the deadline with a late fee?,general_info,"Late applications may be accepted with a 25% fee penalty, subject to program availability."
+how do i track my mailed application documents?,general_info,You can track documents using the reference number provided by the courier service.
+what happens if i miss a midterm exam?,general_info,You must provide medical or emergency proof to request a retake.
+how do i register for independent study courses?,general_info,Submit a proposal to your department head with faculty sponsorship 4 weeks before semester start.
+where can i collect my degree after graduation?,general_info,From the registrar's office after clearance process is complete.
+can i get a health fitness certificate from campus clinic?,general_info,"Yes, after basic checkup at the campus health unit."
+what is the requirement for dean's list?,general_info,CGPA of 3.7+ with full course load and no failures.
+what should i do if lms shows wrong grades?,general_info,Email the course instructor immediately with screenshot proof.
+can i change elective courses mid-semester?,general_info,Only during add/drop week; not after midterms.
+can i join more than one student club?,general_info,"Yes, students are allowed to join multiple societies if time allows."
+can i register for a course from another batch?,general_info,"Yes, if seats are available and pre-requisites are met."
+is the semester calendar shared online?,general_info,"Yes, it's available under ""Academic Calendar"" on the website."
+is attendance compulsory for workshops?,general_info,"Yes, attendance is required to receive workshop certificate."
+are there any student discount cards?,general_info,Apply for the official student ID to avail partner discounts.
+what is the process for applying to the student council?,general_info,Submit a nomination form during election notice period.
+what are the rules for class presentations?,general_info,"Slides must be prepared, and team members must equally participate."
+what is the summer semester grading system?,general_info,Summer courses use the same A-F grading scale but are accelerated over 8 weeks.
+how are final grades calculated?,general_info,"Final grades combine sessionals, midterms, finals, and attendance."
+what is the process to withdraw from the university?,general_info,Fill and submit the withdrawal form with departmental clearance.
+how do i sign up for university newsletters?,general_info,"Visit the university website and register under ""Stay Updated""."
+are lecture slides shared by default?,general_info,Depends on instructor; usually uploaded on LMS after class.
+can i meet the head of department without appointment?,general_info,Walk-ins are discouraged; book a slot via email or office.
+how do i report academic harassment?,general_info,Contact the Gender Equity Cell or email safe@university.edu.pk.
+what is plagiarism percentage limit?,general_info,Less than 20% is considered acceptable.
+where do i submit final year project report?,general_info,Submit to FYP Coordinator in your department office.
+where can i learn about student exchange programs?,general_info,Contact the International Office in Block B for details.
+are there grants for student startups?,general_info,Apply to Innovation Hub with business plan by March 1 annually.
+are there field trips organized by departments?,general_info,"Yes, arranged with prior approvals during active semesters."
+how do i reset my campus wi-fi password?,general_info,Visit IT services with your ID or use the self-service portal with registered mobile.
+are there charging stations for e-scooters?,general_info,Solar-powered stations are located near Gates 2 and 4.
+how do i request a transcript hold?,general_info,Submit a hold request to Registrar with valid academic/financial reason.
+can i get an official letter for visa extension?,general_info,International Office issues visa support letters within 3 working days.
+is there a help desk for new students?,general_info,"Yes, located near Gate 1 during orientation week."
+where can i donate used textbooks?,general_info,Drop boxes are located outside the Bookstore year-round.
+how do i appeal a disciplinary decision?,general_info,Submit written appeal to Student Conduct Board within 14 days.
+can i access bloomberg terminal on campus?,general_info,The Business Lab has 6 terminals available by reservation.
+what's the policy on drone usage?,general_info,Drones may only fly in designated areas with Security Office approval.
+are there sewing machines for student use?,general_info,The Fashion Department loans machines for 4-hour slots.
+what's the format for submitting a thesis?,general_info,Use APA or IEEE format depending on your department guidelines.
+can i rent a bike for campus commuting?,general_info,Daily rentals ($3) are available at the Sports Complex.
+how do i report a broken elevator?,general_info,Call Facilities at ext. 5555 or use the Maintenance Request app.
+what's the policy on class recordings?,general_info,Instructor consent required; sharing recordings is prohibited.
+are there quiet study zones in the library?,general_info,Floors 3-5 are designated silent study areas 24/7.
+can i access the campus farm produce?,general_info,Free seasonal vegetables are distributed every Friday at the Farm Stand.
+what's the policy on political posters?,general_info,Approved posters may be hung only on designated bulletin boards.
+can i bring guests to the swimming pool?,general_info,Guests pay $5/day and must be signed in by current students.
+are there microwaves in lecture buildings?,general_info,"Microwaves are available in student lounges of Blocks A, C, and E."
+are debates conducted in english only?,general_info,"Most official debates are in English, but bilingual events are also held."
+what software is free for engineering students?,general_info,"AutoCAD, MATLAB, and SolidWorks are available through the engineering lab licenses."
+can i use cloud storage for assignments?,general_info,Only university-provided OneDrive (5TB) is approved for academic work.
+how do i report phishing emails?,general_info,Forward suspicious emails to cybersecurity@uni.edu with headers intact.
+are smartwatches allowed during exams?,general_info,All wearable tech must be surrendered to invigilators before exams.
+where can i get notary services on campus?,general_info,The legal aid office in Admin Block provides free notarization twice weekly.
+how do i access the food bank program?,general_info,Present your student ID at the Wellness Center during operating hours.
+what's the process for locker rentals?,general_info,Lockers are assigned first-come basis at the sports complex for $10/semester.
+are digital calculators permitted in statistics exams?,general_info,Only university-approved non-programmable calculators are allowed.
+how do i join the campus ride-share program?,general_info,Register your vehicle at Transport Office to access the carpool matching system.
+how do i access the campus crisis hotline?,general_info,Dial 911 from campus phones or 555-HELP from mobiles for 24/7 support.
+are there grants for conference travel?,general_info,Apply through Research Office with abstract and budget 8 weeks before event.
+can i copyright my thesis through the university?,general_info,The library offers free copyright filing for published theses.
+what's the penalty for fake sick notes?,general_info,Forging medical documents is grounds for suspension or expulsion.
+where is the lost jewelry held?,general_info,High-value items are kept at Security Office for 90 days.
+how do i report a noisy roommate?,general_info,Submit a mediation request to Housing Services within 48 hours of incident.
+can i film lectures for personal use?,general_info,Personal recordings require signed consent from instructor and classmates.
+what's the policy on service animals in labs?,general_info,Approved service animals are permitted except in high-risk lab areas.
+how do i report a broken wheelchair ramp?,general_info,Email accessibility@uni.edu with location details.
+is there a capstone project in final year?,general_info,"Yes, most programs include a final year project with two semesters."
+can i access the animal behavior observation lab?,general_info,"Yes, you can access the animal behavior observation lab if you are enrolled in a relevant program. Check with the department for access.,"
+is the cafeteria wheelchair accessible?,general_info,"Yes, with priority seating and ramps"
+what's the breakfast menu like?,general_info,"Daily options: eggs, pancakes, oatmeal, fruit (6-10 AM)"
+are there halal food options?,general_info,Halal station available Monday-Friday
+is outside food permitted?,general_info,Only with medical/religious documentation
+can i get a refund for bad food?,general_info,Speak to manager for replacement/refund
+are there grants for women in stem conferences?,general_info,Medical School offers 10 travel grants annually.
+how do i report food allergies?,general_info,Submit form to Dining Services or speak to chef
+are there cooking demonstrations?,general_info,Monthly events - schedule online
+is there a breakfast meal deal?,general_info,$4.50 before 8 AM (entree+coffee+fruit)
+are there microwaves for student use?,general_info,4 microwaves available near beverage station
+do you offer vegetarian options?,general_info,3+ vegetarian dishes available daily
+are meal plans available?,general_info,"Yes, plans start at $300/semester (10 meals/week)"
+are there sugar-free drink options?,general_info,"Diet sodas, unsweetened tea available"
+can i get takeaway containers?,general_info,Biodegradable containers available for $0.50
+can i access online classes on mobile?,general_info,"Yes, LMS is mobile-friendly and accessible on most devices."
+how are internal marks calculated?,general_info,"Internal marks include quizzes, assignments, class participation, and sessionals."
+what are the cafeteria operating hours?,general_info,"Open 7:30 AM - 8:00 PM weekdays, 9 AM - 5 PM weekends"
+are there grants for rural healthcare projects?,general_info,"Yes, there are grants available for rural healthcare projects. Check with the financial aid office for more information.,"
+how do i report a broken lactation room fridge?,general_info,"Report a broken lactation room fridge to campus facilities or through the online maintenance portal.,"
+can i access the geospatial analysis lab?,general_info,"Yes, you can access the geospatial analysis lab if you are enrolled in a relevant program. Check with the department for access.,"
+how do i submit medical leave documents?,general_info,Submit documents at student affairs or upload via portal.
+can i use meal swipes for guests?,general_info,5 guest passes/semester
+are there free interview suit rentals?,general_info,"Yes, free interview suit rentals are available through the career services office.,"
+what's the policy on dorm room terrariums?,general_info,"Yes, dorm room terrariums are generally allowed but must meet safety and space requirements. Check with your dorm for rules.,"
+can i use the blacksmithing tools for art projects?,general_info,"Yes, blacksmithing tools can be used for art projects with prior approval from the department. Check with them for access.,"
+are there grants for first responders' education?,general_info,"Yes, there are grants for first responders' education. Check with the financial aid office for more information.,"
+how do i report a broken accessible shower?,general_info,"Report a broken accessible shower to campus facilities or through the online maintenance request portal.,"
+is there a quiet eating area?,general_info,North section marked as low-noise area
+where is the main cafeteria located?,general_info,Ground floor of Student Union Building (Block D)
+are there vegan options daily?,general_info,2 dedicated vegan dishes at lunch/dinner
+are there nutrition facts available?,general_info,Posted at each station and online
+can i work part-time at the cafeteria?,general_info,Apply at Student Employment Office
+what are the busiest hours?,general_info,"11:30 AM–1:30 PM lunch, 5–7 PM dinner"
+are there gluten-free options?,general_info,Dedicated gluten-free station with labeling
+what is the university's policy on ragging?,general_info,Ragging is strictly banned and punishable by expulsion.
+can i get food to-go?,general_info,All meals available for takeout
+are there microwaves in the cafeterias?,general_info,Available in all dining halls
+how do i apply for meal plan waivers?,general_info,Submit documentation to Student Services
+is there outdoor seating?,general_info,Patio seating for 50 (weather permitting)
+are there recycling bins available?,general_info,Color-coded bins throughout facility
+are there discounts for seniors?,general_info,15% off for visitors 65+ with ID
+can i bring my own reusable cup?,general_info,"Yes, 10% discount on beverages"
+are plastic utensils provided?,general_info,Compostable cutlery available at all stations
+is there a salad bar?,general_info,Build-your-own salad station ($3.50 base price)
+how long is a regular class period?,general_info,Each class is typically 1 hour and 30 minutes long.
+where is the it support center?,general_info,"Located in Block C, Room 203 beside the networking lab."
+can i suggest menu items?,general_info,Submit ideas via dining services website
+are there seasonal specials?,general_info,Holiday/themed meals announced monthly
+how often does the menu change?,general_info,"Main dishes rotate weekly, sides daily"
+are there combo meal deals?,general_info,$6.50 for entree+side+drink
+what is the lms helpline number?,general_info,Call 111-123-456 ext. 5 or email lms@university.edu.pk.
+is filtered water available?,general_info,5 hydration stations throughout cafeteria
+is there a soup station?,general_info,3 daily soups (1 vegetarian)
+can parents access student academic records?,general_info,"No, only students have direct access unless written consent is given."
+are there kid-friendly meal options?,general_info,Child portions available upon request
+can i reserve seating for groups?,general_info,Groups of 8+ can reserve 24h in advance
+what's the lunch special today?,general_info,Check digital boards or university dining app
+are there desserts available?,general_info,Daily rotating selection ($1.50–4.00)
+are there charging ports near tables?,general_info,USB/outlets at 50% of tables
+how do i get a bus pass?,general_info,Apply at the transport department with a passport-size photo.
+is there a lost and found for items?,general_info,Check with Security Desk in Student Union
+are there free financial literacy workshops?,general_info,"Yes, free financial literacy workshops are available through the student services office.,"
+can i change my registered email?,general_info,Visit the student affairs office with CNIC copy to request a change.
+what is the dress code for lab classes?,general_info,Lab coats and closed shoes are mandatory in science labs.
+are there free speech-to-text transcription services?,general_info,"Yes, free speech-to-text transcription services are available for students with disabilities through the disability services office.,"
+how do i apply for a cnic-based discount?,general_info,Upload CNIC proof in the finance portal under 'Fee Concessions'.
+can i access the mass spectrometer for my research?,general_info,"Yes, the mass spectrometer can be accessed by students involved in relevant research. Contact the lab coordinator for access.,"
+how do i report a title ix violation anonymously?,general_info,"You can report a Title IX violation anonymously through the university's online portal or student affairs office.,"
+are there grants for first-generation students?,general_info,"Yes, the university offers grants and scholarships for first-generation students. Check the financial aid office for more information.,"
+can i take a drone photography course?,general_info,"Yes, a drone photography course may be available for credit through the media or photography department. Check with them.,"
+are sketchbooks available?,general_info,A4–A3 sketchbooks ($3–12)
+what's the policy on dorm room halogen heaters?,general_info,"Halogen heaters are generally not allowed in dorm rooms due to fire risks. Check with your dorm for specific policies.,"
+can i use the black box theater for my project?,general_info,"Yes, the black box theater can be reserved for student projects. You need to submit a request through the campus booking system.,"
+how do i activate my university email account?,general_info,Use the activation link sent to your registered number or email.
+how do i apply for industrial visits?,general_info,Submit a request through your department coordinator.
+are there grants for sustainable agriculture projects?,general_info,"Yes, the university provides grants for sustainable agriculture projects. Check with the sustainability office for more details.,"
+how do i report a broken water bottle filler?,general_info,"Report a broken water bottle filler to campus facilities through the online maintenance request form.,"
+is there a special quota for disabled students?,general_info,"Yes, a specific admission quota is reserved for students with disabilities."
+can i access the virtual reality development lab?,general_info,"Yes, you can access the virtual reality development lab if you are part of a relevant course or project. Check with the department.,"
+what's the policy on dorm room lava lamps?,general_info,"Lava lamps are generally allowed in dorm rooms, but check with your dorm's specific policies for any restrictions.,"
+can i use the recording studio for my podcast?,general_info,"Yes, the recording studio can be used for podcasts. You need to reserve it through the campus media department.,"
+are there grants for indigenous students' research?,general_info,"Yes, there are grants available for indigenous students' research projects. Check with the financial aid office for more information.,"
+how do i report a broken accessible door opener?,general_info,"Report a broken accessible door opener by submitting a request to campus facilities or via the online maintenance portal.,"
+can i access lms after graduation?,general_info,LMS access is deactivated 1 month after graduation.
+do you sell calculators?,general_info,Scientific & graphing models ($15–120)
+how long does it take to receive a degree?,general_info,Degrees are issued within 2–3 months after final clearance.
+are there free bus tickets for low-income students?,general_info,"Yes, students who meet the qualifications can receive free bus tickets. Visit the student transportation office for more details.,"
+what's the policy on dorm room tapestries?,general_info,"Tapestries may be allowed in dorm rooms, but they cannot block fire exits or be hung near heat sources.,"
+are there grants for disability advocacy travel?,general_info,"Yes, there are grants available for disability advocacy-related travel. Check with the university's disability services office.,"
+how do i report a broken elevator in the library?,general_info,"Report a broken elevator in the library to campus facilities or via the online maintenance request system.,"
+can i access the augmented reality lab?,general_info,"Yes, you can access the augmented reality lab if you are enrolled in relevant courses or have prior approval from the department.,"
+are there free nutrition counseling sessions?,general_info,"Yes, the university offers free nutrition counseling sessions through the student health center.,"
+are there free flu shots for international students?,general_info,"Yes, the university offers free flu shots to all students, including international students, through the health services office.,"
+are there grants for refugee student initiatives?,general_info,"Yes, there are grants available for refugee student initiatives. Check with the financial aid office for details.,"
+how do i request character certificate?,general_info,Apply through the student portal or visit the registrar office.
+are there grants for disability tech development?,general_info,"Yes, there are grants available for disability tech development. Check with the financial aid office for more details.,"
+are midterm marks shown on lms?,general_info,"Yes, midterm results are posted under each course's LMS page."
+can i access the cadaver ultrasound machines?,general_info,"Yes, you can access the cadaver ultrasound machines if you are enrolled in a relevant program. Check with the department for access.,"
+are there free tax preparation services?,general_info,"Yes, free tax preparation services are available to students through the student services office during tax season.,"
+what's the policy on dorm room hydroponics?,general_info,"Yes, hydroponics are allowed in dorm rooms, but they must meet safety and space requirements. Check with your dorm for policies.,"
+can i use the robotics arena for competitions?,general_info,"Yes, the robotics arena can be used for competitions. Submit a request through the department to reserve it.,"
+can i take a locksmithing course through the university?,general_info,FOR 205 includes certification (PPE required).
+can i skip a semester?,general_info,You can take a gap with valid reason and registrar approval.
+is there late-night dining?,general_info,Coffee/snacks until midnight at North Cafe
+how do i apply for semester extension?,general_info,Fill the semester extension form with advisor recommendation.
+what is the fine for library book damage?,general_info,The fine equals the full replacement cost of the book.
+are there grants for student parents' childcare?,general_info,"Yes, there are grants available for student parents' childcare. Check with the financial aid office for more information.,"
+how do i report a broken braille signage?,general_info,"Report a broken braille signage by submitting a request through the campus facilities or accessibility office.,"
+what's the policy on dorm room halogen lamps?,general_info,"Halogen lamps are typically not allowed in dorm rooms due to fire hazards.,"
+where is the stationery shop?,general_info,Adjacent to Library Entrance (Block A)
+can i access the nuclear magnetic resonance lab?,general_info,"Yes, you can access the nuclear magnetic resonance (NMR) lab for your research with department approval.,"
+can i access the crime scene investigation house?,general_info,"Access to the crime scene investigation house is typically limited to students enrolled in related courses or with special permission.,"
+are there free legal name change workshops?,general_info,"Yes, free legal name change workshops are available through the student services office.,"
+what's the policy on dorm room electric kettles?,general_info,"Yes, electric kettles are generally allowed in dorm rooms but must meet safety guidelines. Check with your dorm for specific rules.,"
+are there part-time job opportunities for students?,general_info,Visit the Career Center job board or email hr@university.edu.pk.
+are there grants for veterans' educational projects?,general_info,"Yes, there are grants for veterans' educational projects. Check with the financial aid office for more information.,"
+do you sell usb drives?,general_info,"Yes, 16GB–128GB options ($5–25)"
+are stamps available?,general_info,Envelopes and stamps sold at counter
+what is the policy on makeup quizzes?,general_info,Makeup quizzes are subject to instructor's discretion and valid excuses.
+can i access the motion capture studio?,general_info,"Yes, you can access the motion capture studio with prior approval from the media or arts department.,"
+can i use the planetarium for my astronomy project?,general_info,"Yes, the planetarium can be used for astronomy projects. Submit a request through the department to reserve it.,"
+what's the policy on dorm room incense?,general_info,"Incense is typically not allowed in dorm rooms due to fire safety concerns.,"
+can i keep a refrigerator in my hostel room?,hostel_info,No personal appliances are allowed unless approved by the warden.
+is mess facility included in hostel fee?,hostel_info,"No, mess charges are billed separately each month."
+are hostel rooms cleaned regularly?,hostel_info,"Yes, weekly cleaning is provided by hostel housekeeping staff."
+can i extend my hostel stay after exams?,hostel_info,Request in writing with warden approval and reason.
+where can i get my hostel allocation letter?,hostel_info,From the hostel warden's office before move-in date.
+are there separate hostels for male and female students?,hostel_info,"Yes, there are separate hostels with proper security for both genders."
+can i change my hostel room?,hostel_info,Submit a request to hostel admin; changes allowed based on availability.
+can i apply for hostel if i live nearby?,hostel_info,"No, hostel is for out-of-city students only."
+is hostel entry allowed after 10 pm?,hostel_info,No entry is allowed after 10 PM without prior permission.
+how can i apply for hostel accommodation?,hostel_info,Fill the hostel form from student services and submit before semester starts.
+are pets allowed in hostel?,hostel_info,"No, pets are strictly not allowed in hostel premises."
+what are the quiet hours in hostel?,hostel_info,Quiet hours are from 10 PM to 7 AM daily.
+are university hostels available during the summer semester?,hostel_info,"Yes, but availability may be limited. You should apply in advance through the hostel office."
+what facilities are provided in the hostel rooms?,hostel_info,"Hostel rooms include bed, mattress, table, chair, and cupboard."
+do we have smart classrooms?,hostel_info,"Yes, most lecture halls are equipped with smart boards and projectors."
+"how can i apply for a hostel room?,",hostel_info,"You can apply for a hostel room via the university portal under 'Accommodation Services'.,"
+are there laundry facilities in hostels?,hostel_info,Each hostel has coin-operated machines using prepaid campus cards.
+what's the policy on dorm room air conditioners?,hostel_info,"Yes, the policy on dorm room air conditioners varies by dorm. Check with your dorm for specific guidelines on air conditioning use.,"
+what’s the process for hostel late check-out?,hostel_info,Get written permission 48 hours in advance from hostel admin.
+where can i lodge hostel maintenance complaints?,hostel_info,Submit via Hostel Portal or at Warden Office.
+are there university shuttles to hostels?,hostel_info,"Yes, hourly shuttle from 8 AM to 8 PM."
+can i switch from hostel to day scholar mid-semester?,hostel_info,"Yes, request must be approved by Warden and Registrar."
+are security cameras installed in hostels?,hostel_info,"Yes, all corridors and entry points have CCTV coverage."
+how do i report a broken gender-neutral bathroom lock?,hostel_info,"Report a broken gender-neutral bathroom lock through campus facilities or the online maintenance system.,"
+can i bring my own chair to hostel?,hostel_info,"No, only university-provided furniture is allowed in rooms."
+what's the policy on dorm room 3d printers?,hostel_info,"Yes, dorm rooms may have 3D printers, but they must meet safety and space guidelines. Check with your dorm for policies.,"
+how many people per hostel room?,hostel_info,2–3 depending on the room type.
+are meals included in hostel fee?,hostel_info,"No, meals are charged separately at the mess."
+is there a printing corner in hostel?,hostel_info,"Yes, common printing booths in Block D & F hostels."
+do i need vaccination to enter hostel?,hostel_info,"Yes, vaccination certificate is mandatory post-COVID."
+can i use common room after 9 pm?,hostel_info,"No, rooms close by 9 PM daily."
+what is the refund policy for hostel?,hostel_info,Refunds issued if vacated within 2 weeks of semester start.
+what's the policy on dorm room murals?,hostel_info,Allowed with paint that passes VOC safety tests.
+can i access the clean room for nanotechnology work?,hostel_info,"Yes, the clean room can be accessed by students involved in nanotechnology research. Contact the lab coordinator for access.,"
+what to do in case of hostel theft?,hostel_info,Report to hostel security immediately and file a complaint.
+are there emergency exits in hostels?,hostel_info,"Yes, all hostel blocks have clearly marked emergency exits."
+where can i check hostel availability for next semester?,hostel_info,Check with Hostel Admin Office or notice boards in hostels.
+are there gender-neutral restrooms?,hostel_info,Located on every floor of the Student Union building.
+is smoking allowed in the university hostels?,hostel_info,Smoking is strictly prohibited in all hostel areas.
+are there self-study rooms in the library?,hostel_info,"Yes, available on all floors on a first-come basis."
+can i reserve library study rooms?,hostel_info,"Yes, reserve via the library portal or helpdesk."
+can i get a wheelchair-accessible dorm room?,hostel_info,Request through Disability Services at least 2 months before semester start.
+are meditation rooms available?,hostel_info,Book 30-minute slots at the Mindfulness Center online.
+how do i report a broken lactation room lock?,hostel_info,"Report a broken lactation room lock to campus facilities or via the online maintenance request portal.,"
+are umbrellas allowed in the library?,library_info,"Yes, but must be placed in umbrella stands at entrance."
+how to access digital library?,library_info,Login via student portal → Resources → Library Access.
+how do i access the seed library for gardening?,library_info,Open spring/summer at Campus Sustainability Office.
+how many books can i borrow at a time?,library_info,You can borrow up to 3 books for a maximum of 14 days.
+can i use headphones in library?,library_info,"Yes, only in designated silent media rooms."
+are laptops allowed in libraries?,library_info,"Yes, laptops are allowed in silent mode."
+what’s the library fine per overdue book?,library_info,PKR 20 per day per book.
+what happens if i don’t clear library dues?,library_info,You can’t access portal or register for new semester.
+does the library remain open during summer semester for study and research?,library_info,"Yes, but hours may be limited. Check the library’s summer schedule online"
+are there lockers in library for personal items?,library_info,"Yes, key-based lockers available for daily use."
+can i access the law library as a non-law student?,library_info,Open to all students after 6pm with valid ID.
+what are the library opening hours?,library_info,Library remains open from 8:00 AM to 6:00 PM on weekdays.
+where is the main library located?,library_info,"The main library is located in Block A, beside the seminar hall."
+"can alumni access the library resources?,",library_info,"Yes, alumni can access selected library resources by applying for an alumni membership card.,"
+is the university library open on public holidays?,library_info,"No, the library remains closed on public holidays."
+is there a fine for overdue books?,library_info,"Yes, a fine of PKR 20 per day is charged for each overdue book."
+can i access library from outside campus?,library_info,"Yes, use VPN and your university login credentials."
+can i get my semester schedule printed from campus?,printing_services,"Yes, visit the print lab near Block C or use the portal to download."
+is there bulk printing discount?,printing_services,15% off 100+ copies (order 24h ahead)
+what's the maximum pages per job?,printing_services,200 pages maximum
+how long are print jobs stored?,printing_services,24 hours in queue before auto-deletion
+can i print architectural plans?,printing_services,Engineering Lab only (A1–A0 sizes)
+are there color printers?,printing_services,4 color printers in Library (Ground Floor)
+is 3d printing available?,printing_services,Engineering Dept only ($5 base + material)
+can i print architectural drawings?,printing_services,Engineering Lab only (A1–A0 sizes)
+can i reuse my id to print?,printing_services,"Yes, linked to your account for access"
+how do i add funds to print account?,printing_services,Via student portal or Library Desk
+where are printers located?,printing_services,"Library (24/7), Computer Labs (8 AM–10 PM)"
+can i print in color?,printing_services,"Yes, at designated printers"
+where can i find printing facilities on campus?,printing_services,"Printers are located in library, IT labs, and Student Union."
+are there printing packages?,printing_services,1000 pages for $80 (B&W only)
+is double-sided printing available?,printing_services,"Yes, costs 1.5x single-side rate"
+what's the price for printing?,printing_services,"B&W: $0.10/page, Color: $0.50/page"
+can i print in a3 size?,printing_services,Engineering Lab only ($1.50/page)
+can i print my thesis here?,printing_services,"Yes, with binding services ($3–15 extra)"
+can i print photos?,printing_services,"Glossy/matte finishes ($1.50/4x6"")"
+how do i check printing balance?,printing_services,Check balance through student portal → Printing Services.
+can i print on cardstock?,printing_services,"Yes, +$0.75/page for premium paper"
+can i print posters?,printing_services,Up to A0 size ($8/sq ft)
+can i print double-sided?,printing_services,"Yes, counts as 1.5 pages"
+are there 3d printers for student projects?,printing_services,Engineering Lab offers 3D printing at $2/gram material cost.
+is there a printing quota?,printing_services,"500 free pages/semester, then pay-per-use"
+can i print from my laptop?,printing_services,"Yes, install ""UniPrint"" drivers"
+can i print from my phone?,printing_services,"Via ""UniPrint Mobile"" app"
+what gpa is required to maintain a scholarship?,scholarship_info,You must maintain a GPA of 3.0 or above to keep your scholarship.
+how do i apply for a scholarship?,scholarship_info,Fill the scholarship application form and attach the required documents.
+what scholarships are offered by the university?,scholarship_info,"Merit-based, need-based, and sports scholarships are offered."
+are need-based scholarships available?,scholarship_info,"Yes, you can apply with income proof and valid documents."
+where can i collect my scholarship form?,scholarship_info,Scholarship forms are available at student affairs or can be downloaded online.
+can i apply for multiple scholarships?,scholarship_info,"Yes, but only one will be granted if approved."
+"is there any scholarship for sports students?,",scholarship_info,"Yes, the university offers merit-based and sports scholarships. Check the Scholarships section on the university website.,"
+can i get financial aid mid-semester?,scholarship_info,Only in special cases with proper documentation.
+what is the dress code for the sports complex?,sports_info,Proper sports attire and non-marking shoes are mandatory.
+can alumni use the student gym?,sports_info,"No, gym access is restricted to currently enrolled students."
+are there showers in the gym?,sports_info,Available in all locker rooms; bring your own towel and lock.
+where is the gym located on campus?,sports_info,The gym is in the sports complex next to the basketball court.
+can i use the university gym in summer?,sports_info,"Yes, the gym is open with summer timings. Student ID is required."
+where can i view the sports tournament schedule?,sports_info,Check the sports office board or university app under Events.
+can i borrow sports equipment?,sports_info,Check out items with your ID from the Sports Complex front desk.
+are there grants for wheelchair sports?,sports_info,Athletic Department offers equipment scholarships.
+what's the gym towel service fee?,sports_info,Towel service costs $15/month with unlimited exchanges.
+how can i register for university sports events?,sports_info,Registration forms are available at the sports office.
+where is the university sports complex?,sports_info,"Behind Block E, near the main football ground."
+can i borrow sports gear from the university?,sports_info,"Yes, gear can be issued with your ID card and refundable deposit."
+can i use sports facilities in the summer semester?,sports_info,"Yes, but availability might be limited due to maintenance or fewer staff."
+is there any gym schedule posted?,sports_info,"Yes, weekly schedule is posted outside Sports Block."
+is there a backup bus for late transport?,transport_info,Backup transport is available for major routes during exams only.
+are there transportation services during the summer semester?,transport_info,"Yes, but with fewer routes or reduced frequency. Check updated transport schedules."
+where can i get a parking sticker?,transport_info,"Apply for parking sticker at the transport office, Block C."
+what happens if i lose my parking sticker?,transport_info,Apply for a replacement at the transport office with FIR copy.
+do we have university bus to airport?,transport_info,Only during semester breaks; sign-up required.
+what are the rules for using university parking?,transport_info,Parking is allowed only in designated student areas with a sticker.
+how do i report a broken accessible parking sign?,transport_info,"Report a broken accessible parking sign by submitting a request through campus facilities or the online maintenance system.,"
+do university buses operate on sunday?,transport_info,"No, regular routes are Monday–Saturday only."
+do we have shuttle buses between campuses?,transport_info,"Yes, shuttles operate hourly between North and South Campus."
+can students park in admin lot?,transport_info,"No, admin parking is reserved for faculty/staff only."
+can i keep my car on campus overnight?,transport_info,Only with written permission from Transport Office.
+can i get a parking refund if i leave early?,transport_info,Pro-rated refunds issued for semesters abandoned with proof of withdrawal.
+"can students use university transport for field trips?,",transport_info,"Yes, students may request university transport for academic field trips via department approval.,"
+what's the penalty for fake parking permits?,transport_info,Counterfeit permits result in $200 fine and parking ban for 1 year.
+what is the transport route for gulshan area?,transport_info,Route maps are available at the transport office or student portal.
+where is the university’s shuttle stop located?,transport_info,"In front of the main gate, near the security check."
+what are the transport charges for zone 4?,transport_info,"PKR 9,000 per semester for Zone 4."
